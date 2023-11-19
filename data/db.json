@@ -1,0 +1,221 @@
+{
+    "products": [
+        {
+            "name": "WHEY PROTEIN",
+            "price": "80",
+            "image": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/1031957-1000-1000/image-7d16fb329af34495b14509c888526d50.jpg?v=638119971775570000",
+            "description": "Suplemento alimentar de proteína do soro do leite. Sabor Baunilha",
+            "weight": "900g",
+            "nutritionalTable": {
+                "valorEnergetico": "154 kcal",
+                "porção": "40g",
+                "carboidratos": "13g",
+                "açucares": "12g",
+                "proteinas": "21g",
+                "creatina": "0 g"
+            },
+            "id": 1
+        },
+        {
+            "name": "CREATINA",
+            "price": "50",
+            "image": "https://cdn.dooca.store/2383/products/i5f39nzkkbmwhiiuheson3m8nzpcxuxil0ci.png?v=1616878935",
+            "description": "Suplemento de creatina para atletas",
+            "weight": "300g",
+            "nutritionalTable": {
+                "valorEnergetico": "0 kcal",
+                "porção": "0 g",
+                "carboidratos": "0 g",
+                "açucares": "0 g",
+                "proteinas": "0 g",
+                "creatina": "3000mg"
+            },
+            "id": 2
+        },
+        {
+            "name": "BCAA",
+            "price": "60",
+            "image": "https://integralmedica.vteximg.com.br/arquivos/ids/165307/BCAA-90-caps.png?v=638203652104170000",
+            "description": "Branched chain amino acidos",
+            "weight": "90 caps",
+            "nutritionalTable": {
+                "valorEnergetico": "8 kcal",
+                "vitaminaB6": "1,3mg",
+                "leucina": "1022mg",
+                "isoleucina": "511mg",
+                "valina": "511mg"
+            },
+            "id": 3
+        },
+        {
+            "name": "GLUTAMINA",
+            "price": "54",
+            "image": "https://integralmedica.vteximg.com.br/arquivos/ids/165360/150g.png?v=638203736165170000",
+            "description": "Módulo de L-Glutamina para nutrição enteral",
+            "weight": "300g",
+            "nutritionalTable": {
+                "valorEnergetico": "20 kcal",
+                "carboidratos": "0 g",
+                "açucares": "0 g",
+                "proteinas": "0 g",
+                "glutamina": "5000mg"
+            },
+            "id": 4
+        },
+        {
+            "name": "PRÉ TREINO",
+            "price": "150",
+            "image": "https://www.musclebox.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/1/5/155851-800-800_1.png",
+            "description": "Suplemento energético para consumir antes de exercícios",
+            "weight": "320g",
+            "nutritionalTable": {
+                "valorEnergetico": "16 kcal",
+                "carboidratos": "1.7g",
+                "betaAlanina": "2000mg",
+                "tirosina": "300mg",
+                "arginina": "2000mg",
+                "taurina": "1000mg"
+            },
+            "id": 5
+        },
+        {
+            "name": "HIPERCALÓRICO",
+            "price": "100",
+            "image": "https://mundoagranel.com.br/wp-content/uploads/2022/05/15124551338_sinister-mass-baunilha-3kg-integralmedica-1-.png",
+            "description": "Suplemento para substituição parcial de refeições para atletas",
+            "weight": "3KG",
+            "nutritionalTable": {
+                "valorEnergetico": "609 kcal",
+                "porção": "160g",
+                "carboidratos": "134g",
+                "açucares": "29g",
+                "proteinas": "15g",
+                "creatina": "3000mg"
+            },
+            "id": 6
+        },
+        {
+            "name": "WHEY PROTEIN",
+            "price": "80",
+            "image": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/1031957-1000-1000/image-7d16fb329af34495b14509c888526d50.jpg?v=638119971775570000",
+            "description": "Suplemento alimentar de proteína do soro do leite. Sabor Baunilha",
+            "weight": "900g",
+            "nutritionalTable": {
+                "valorEnergetico": "154 kcal",
+                "porção": "40g",
+                "carboidratos": "13g",
+                "açucares": "12g",
+                "proteinas": "21g"
+            },
+            "id": 7
+        },
+        {
+            "name": "CREATINA",
+            "price": "50",
+            "image": "https://cdn.dooca.store/2383/products/i5f39nzkkbmwhiiuheson3m8nzpcxuxil0ci.png?v=1616878935",
+            "description": "Suplemento de creatina para atletas",
+            "weight": "300g",
+            "nutritionalTable": {
+                "valorEnergetico": "0 kcal",
+                "carboidratos": "0 g",
+                "açucares": "0 g",
+                "proteinas": "0 g",
+                "creatina": "3000mg"
+            },
+            "id": 8
+        },
+        {
+            "name": "BCAA",
+            "price": "60",
+            "image": "https://integralmedica.vteximg.com.br/arquivos/ids/165307/BCAA-90-caps.png?v=638203652104170000",
+            "description": "Branched chain amino acidos",
+            "weight": "90 caps",
+            "nutritionalTable": {
+                "valorEnergetico": "8 kcal",
+                "vitaminaB6": "1,3mg",
+                "leucina": "1022mg",
+                "isoleucina": "511mg",
+                "valina": "511mg"
+            },
+            "id": 9
+        },
+        {
+            "name": "GLUTAMINA",
+            "price": "54",
+            "image": "https://integralmedica.vteximg.com.br/arquivos/ids/165360/150g.png?v=638203736165170000",
+            "description": "Módulo de L-Glutamina para nutrição enteral",
+            "weight": "300g",
+            "nutritionalTable": {
+                "valorEnergetico": "20 kcal",
+                "carboidratos": "0 g",
+                "açucares": "0 g",
+                "proteinas": "0 g",
+                "glutamina": "5000mg"
+            },
+            "id": 10
+        },
+        {
+            "name": "PRÉ TREINO",
+            "price": "150",
+            "image": "https://www.musclebox.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/1/5/155851-800-800_1.png",
+            "description": "Suplemento energético para consumir antes de exercícios",
+            "weight": "320g",
+            "nutritionalTable": {
+                "valorEnergetico": "16 kcal",
+                "carboidratos": "1.7g",
+                "betaAlanina": "2000mg",
+                "tirosina": "300mg",
+                "arginina": "2000mg",
+                "taurina": "1000mg"
+            },
+            "id": 11
+        },
+        {
+            "name": "HIPERCALÓRICO",
+            "price": "100",
+            "image": "https://mundoagranel.com.br/wp-content/uploads/2022/05/15124551338_sinister-mass-baunilha-3kg-integralmedica-1-.png",
+            "description": "Suplemento para substituição parcial de refeições para atletas",
+            "weight": "3KG",
+            "nutritionalTable": {
+                "valorEnergetico": "609 kcal",
+                "porção": "160g",
+                "carboidratos": "134g",
+                "açucares": "29g",
+                "proteinas": "15g",
+                "creatina": "3000mg"
+            },
+            "id": 12
+        },
+        {
+            "name": "GLUTAMINA",
+            "price": "54",
+            "image": "https://integralmedica.vteximg.com.br/arquivos/ids/165360/150g.png?v=638203736165170000",
+            "description": "Módulo de L-Glutamina para nutrição enteral",
+            "weight": "300g",
+            "nutritionalTable": {
+                "valorEnergetico": "20 kcal",
+                "carboidratos": "0 g",
+                "açucares": "0 g",
+                "proteinas": "0 g",
+                "glutamina": "5000mg"
+            },
+            "id": 13
+        },
+        {
+            "name": "CREATINA",
+            "price": "50",
+            "image": "https://cdn.dooca.store/2383/products/i5f39nzkkbmwhiiuheson3m8nzpcxuxil0ci.png?v=1616878935",
+            "description": "Suplemento de creatina para atletas",
+            "weight": "300g",
+            "nutritionalTable": {
+                "valorEnergetico": "0 kcal",
+                "carboidratos": "0 g",
+                "açucares": "0 g",
+                "proteinas": "0 g",
+                "creatina": "3000mg"
+            },
+            "id": 14
+        }
+        
+    ]
+}
