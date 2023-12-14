@@ -14,10 +14,10 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 register();
 
 const images = [
-    {id: '1', image: '../public/combo.png'},
-    {id: '2', image: '../public/prom1.png'},
-    {id: '3', image: '../public/prom2.png'},
-    {id: '4', image: '../public/prom3.png'},
+    {id: '1', image: '../combo.png'},
+    {id: '2', image: '../prom1.png'},
+    {id: '3', image: '../prom2.png'},
+    {id: '4', image: '../prom3.png'},
 ]
 
 const Slider = () => {
