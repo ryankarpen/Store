@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div className="nav">
         <Link to="/">
-          <img src="../public/icon.png" alt="" />
+          <img src="../icon.png" alt="" />
         </Link>
         <h1>Cycle Suplements</h1>
         <span>
